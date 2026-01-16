@@ -1,0 +1,15 @@
+C:\Users\luanm\Documents\Luan\Cursos\TIVIT C#\dio-credit-card-validation\DIOCardValidator\bin\Debug\net10.0\DIOCardValidator.exe
+C:\Users\luanm\Documents\Luan\Cursos\TIVIT C#\dio-credit-card-validation\DIOCardValidator\bin\Debug\net10.0\DIOCardValidator.deps.json
+C:\Users\luanm\Documents\Luan\Cursos\TIVIT C#\dio-credit-card-validation\DIOCardValidator\bin\Debug\net10.0\DIOCardValidator.runtimeconfig.json
+C:\Users\luanm\Documents\Luan\Cursos\TIVIT C#\dio-credit-card-validation\DIOCardValidator\bin\Debug\net10.0\DIOCardValidator.dll
+C:\Users\luanm\Documents\Luan\Cursos\TIVIT C#\dio-credit-card-validation\DIOCardValidator\bin\Debug\net10.0\DIOCardValidator.pdb
+C:\Users\luanm\Documents\Luan\Cursos\TIVIT C#\dio-credit-card-validation\DIOCardValidator\obj\Debug\net10.0\DIOCardValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanm\Documents\Luan\Cursos\TIVIT C#\dio-credit-card-validation\DIOCardValidator\obj\Debug\net10.0\DIOCardValidator.AssemblyInfoInputs.cache
+C:\Users\luanm\Documents\Luan\Cursos\TIVIT C#\dio-credit-card-validation\DIOCardValidator\obj\Debug\net10.0\DIOCardValidator.AssemblyInfo.cs
+C:\Users\luanm\Documents\Luan\Cursos\TIVIT C#\dio-credit-card-validation\DIOCardValidator\obj\Debug\net10.0\DIOCardValidator.csproj.CoreCompileInputs.cache
+C:\Users\luanm\Documents\Luan\Cursos\TIVIT C#\dio-credit-card-validation\DIOCardValidator\obj\Debug\net10.0\DIOCardValidator.sourcelink.json
+C:\Users\luanm\Documents\Luan\Cursos\TIVIT C#\dio-credit-card-validation\DIOCardValidator\obj\Debug\net10.0\DIOCardValidator.dll
+C:\Users\luanm\Documents\Luan\Cursos\TIVIT C#\dio-credit-card-validation\DIOCardValidator\obj\Debug\net10.0\refint\DIOCardValidator.dll
+C:\Users\luanm\Documents\Luan\Cursos\TIVIT C#\dio-credit-card-validation\DIOCardValidator\obj\Debug\net10.0\DIOCardValidator.pdb
+C:\Users\luanm\Documents\Luan\Cursos\TIVIT C#\dio-credit-card-validation\DIOCardValidator\obj\Debug\net10.0\DIOCardValidator.genruntimeconfig.cache
+C:\Users\luanm\Documents\Luan\Cursos\TIVIT C#\dio-credit-card-validation\DIOCardValidator\obj\Debug\net10.0\ref\DIOCardValidator.dll
